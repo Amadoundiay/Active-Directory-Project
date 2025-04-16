@@ -98,9 +98,7 @@ network:
           via: 192.168.10.1
 ```
 Run: sudo netplan apply
-```bash
 
-```
 ## Phase 3: Components Setup and Configuration
 
 ### Install Splunk on Ubuntu Server
