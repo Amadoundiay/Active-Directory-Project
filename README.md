@@ -1,4 +1,4 @@
-# Active Directory Cybersecurity 
+# Active Directory Project
 
 ## Overview
 This project involves building a comprehensive virtual cybersecurity lab using Oracle VM VirtualBox. The lab includes Windows 10, Kali Linux, Windows Server 2022, and Ubuntu Server VMs, each configured on a shared NAT network. The goal is to simulate a secure enterprise environment with log monitoring, endpoint detection, domain management, and security testing.
@@ -101,7 +101,7 @@ Run: sudo netplan apply
 ```bash
 
 ```
-## Phase 3: components installation and setup
+## Phase 3: Components Setup and Configuration
 
 ### Install Splunk on Ubuntu Server
 
